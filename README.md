@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p>🤔 &nbsp; I’m looking for help with C++ & Python</p>
 
-<p>💬 &nbsp; Ask me about Web Development!</p>
+<p>💬 &nbsp; Ask me about Web Design & Development!</p>
 
 <p>😄 &nbsp; Pronouns: Fiz, Fizo</p>
 
