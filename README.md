@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-🔭 <p>I’m currently working on JavaScript Projects</p>
-<br>
-🌱  <p>I’m currently learning React/Redux/React Native</p>
-<br>
-👯  <p>I’m looking to collaborate on any Web Application</p>
-<br>
-🤔  <p>I’m looking for help with C++ & Python</p>
-<br>
-💬  <p>Ask me about Web Development!</p>
-<br>
-😄  <p>Pronouns: Fiz, Fizo</p>
-<br>
-⚡ <p>Fun fact: I'm both sweet and savoury person!</p>
+<p>🔭&nbspI’m currently working on JavaScript Projects</p>
+
+<p>🌱&nbspI’m currently learning React/Redux/React Native</p>
+
+<p>👯&nbspI’m looking to collaborate on any Web Application</p>
+
+<p>🤔&nbspI’m looking for help with C++ & Python</p>
+
+<p>💬&nbspAsk me about Web Development!</p>
+
+<p>😄&nbspPronouns: Fiz, Fizo</p>
+
+<p>⚡&nbspFun fact: I'm both sweet and savoury person!</p>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=hfzgfr&color=brightgreen)
