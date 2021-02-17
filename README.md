@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
+
 <p>🔭 &nbsp; I’m currently working on JavaScript Projects</p>
 
 <p>🌱 &nbsp; I’m currently learning React/Redux/React Native</p>
