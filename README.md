@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p>💬 &nbsp; Ask me about Web Design & Development!</p>
 
-<p>😄 &nbsp; Pronouns: Fiz, Fizo</p>
+<!-- <p>😄 &nbsp; Pronouns: Fiz, Fizo</p> -->
 
 <p>⚡ &nbsp; Fun fact: I'm both sweet and savoury person!</p>
 <hr>
