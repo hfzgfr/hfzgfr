@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on web development fundamentals!
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on web development fundamentals!
 
+🔭 I’m currently working on JavaScript Projects
+🌱 I’m currently learning React/Redux/React Native
+👯 I’m looking to collaborate on any Web Application
+🤔 I’m looking for help with C++ & Python
+💬 Ask me about Web Development!
+😄 Pronouns: Fiz, Fizo
+⚡ Fun fact: I'm both sweet and savoury person!
 
 ![](https://komarev.com/ghpvc/?username=hfzgfr&color=brightgreen)
