@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p>👯 &nbsp; I’m looking to collaborate on any Web Application</p>
 
-<p>🤔 &nbsp; I’m looking for help with C++ & Python</p>
+<p>🤔 &nbsp; I’m looking for help with C++ & Java</p>
 
 <p>💬 &nbsp; Ask me about Web Design & Development!</p>
 
