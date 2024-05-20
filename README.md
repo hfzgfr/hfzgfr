@@ -15,19 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>🔭 &nbsp; I’m currently working on JavaScript Projects</p>
+<b>IT Professional</b>
+<p>🔭 &nbsp; I’m working as a NOC Engineer!</p>
 
-<p>🌱 &nbsp; I’m currently learning React/Redux/React Native</p>
+<p>🌱 &nbsp; I am currently in the process of studying for the CCNA certification to enhance my knowledge and skills.</p>
 
-<p>👯 &nbsp; I’m looking to collaborate on any Web Application</p>
+<p>💬 &nbsp; Feel free to ask about Web Design & Development, as I experienced in utilizing HTML, CSS, Javascript, and ReactJS.</p>
 
-<p>🤔 &nbsp; I’m looking for help with C++ & Java</p>
-
-<p>💬 &nbsp; Ask me about Web Design & Development!</p>
-
-<!-- <p>😄 &nbsp; Pronouns: Fiz, Fizo</p> -->
-
-<p>⚡ &nbsp; Fun fact: I'm both sweet and savoury person!</p>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=hfzgfr&color=brightgreen)
